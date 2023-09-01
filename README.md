@@ -1,15 +1,24 @@
 # rtl8812au (8812au) installation scripts
 Install rtl8812au driver on your Linux desktop.
 ## Supported distros
-Debian/Debian-based distros - Working!
-Ubuntu/Official flavours/Ubuntu-based distros - Working!
-RPM (Red Hat)-based distros - In Development!
-Fedora/Fedora-based distros - Almost working! (Fedora 38 is not working because of invalid kernel)
-Arch Linux/Arch-based distros - Working!
-Manjaro Linux/Manjaro-based distros - Working!
-openSUSE/openSUSE-based distos - Working!
-Void Linux/Void Linux-based distros - Working!
-Alpine/Alpine-based distros - In Development!
+### Debian/Debian-based distros
+Working!
+### Ubuntu/Official flavours/Ubuntu-based distros
+Working!
+### RPM (Red Hat)-based distros 
+In Development!
+### Fedora/Fedora-based distros
+Almost working! (Fedora 38 is not working because of invalid kernel)
+### Arch Linux/Arch-based distros 
+Working!
+### Manjaro Linux/Manjaro-based distros
+Working!
+### openSUSE/openSUSE-based distos
+Working!
+### Void Linux/Void Linux-based distros
+Working!
+### Alpine/Alpine-based distros 
+In Development!
 ### Script work
 It updates package base.
 It installs needed packages.
@@ -19,13 +28,20 @@ It builds and installs driver using DKMS.
 It automatically reboots.
 ## FAQ
 ### Which driver it uses?
-Debian/Debian-based distros - Will use aircarck-ng's driver
-Ubuntu/Official flavours/Ubuntu-based distros - Will use aircarck-ng's driver
-RPM (Red Hat)-based distros - Will use Gnab's driver
-Arch Linux/Arch-based distros including Manjaro - Will use Gnab's driver
-openSUSE/openSUSE-based distos - Will use Morrownr's driver
-Void Linux/Void Linux-based distros - Will use Morrownr's driver
-Alpine/Alpine-based distros - Will use Morrownr's driver
+### Debian/Debian-based distros  
+Will use aircarck-ng's driver
+### Ubuntu/Official flavours/Ubuntu-based distros 
+Will use aircarck-ng's driver
+### RPM (Red Hat)-based distros 
+Will use Gnab's driver
+### Arch Linux/Arch-based distros including Manjaro 
+Will use Gnab's driver
+### openSUSE/openSUSE-based distos 
+Will use Morrownr's driver
+### Void Linux/Void Linux-based distros 
+Will use Morrownr's driver
+### Alpine/Alpine-based distros 
+Will use Morrownr's driver
 ### No option for Manjaro?
 It is an Arch Linux with GUI setup.
 Use Arch script.
