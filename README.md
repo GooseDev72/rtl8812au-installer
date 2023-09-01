@@ -45,6 +45,9 @@ Will use Morrownr's driver
 ### No option for Manjaro?
 It is an Arch Linux with GUI setup.
 Use Arch script.
+### No option for Ubuntu?
+Use Debian installer.
+Ubuntu is built on Debian.
 ### How do I run it?
 In order to download rtl8812au git driver files, you need Internet.
 Use Ethernet or USB modem in your Android phone.
